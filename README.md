@@ -29,5 +29,6 @@ The system integrates:
 ## Block Diagram
 ![Block Diagram](Block_Diagram.png)
 ![UPQC Block Diagram](UPQC_Block_Diagram.png)
+![Maximum Power Point Tracking](MPPT_Block_Diagram.png)
 ## Author
 Karthik
