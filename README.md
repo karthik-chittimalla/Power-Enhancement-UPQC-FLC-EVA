@@ -26,6 +26,8 @@ The system integrates:
 - Reduce Total Harmonic Distortion (THD)
 - Manage renewable energy integration
 - Improve power quality using UPQC
-
+## Block Diagram
+-
+![Block Diagram](Block_Diagram.png)
 ## Author
 Karthik
