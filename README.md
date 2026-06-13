@@ -27,7 +27,7 @@ The system integrates:
 - Manage renewable energy integration
 - Improve power quality using UPQC
 ## Block Diagram
--
 ![Block Diagram](Block_Diagram.png)
+![UPQC Block Diagram](UPQC_Block_Diagram.png)
 ## Author
 Karthik
