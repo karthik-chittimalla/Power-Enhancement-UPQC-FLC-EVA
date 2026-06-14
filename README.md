@@ -27,6 +27,7 @@ The system integrates:
 - Manage renewable energy integration
 - Improve power quality using UPQC
 ## Block Diagram
+![Simulink Model(Simulink_Model.png)]
 ![Block Diagram](Block_Diagram.png)
 ![UPQC Block Diagram](UPQC_Block_Diagram.png)
 ![Maximum Power Point Tracking](MPPT_Block_Diagram.png)
