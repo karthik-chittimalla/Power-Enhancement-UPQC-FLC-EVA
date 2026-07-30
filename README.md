@@ -1,7 +1,7 @@
 # Power Enhancement with Grid Stabilization of Renewable Energy-Based Generation System Using UPQC-FLC-EVA Technique
 
 ## Overview
-This project focuses on improving power quality and grid stability in renewable energy systems using a Unified Power Quality Conditioner (UPQC), Fuzzy Logic Controller (FLC), and Evolutionary Voltage Algorithm (EVA).
+This project focuses on improving power quality and grid stability in renewable energy systems using a Unified Power Quality Conditioner (UPQC), Fuzzy Logic Controller (FLC), and EV Integration.
 
 The system integrates:
 - Solar PV System
